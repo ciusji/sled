@@ -176,7 +176,7 @@
 //!     * shows that we can compile queries without resorting to complex
 //!       implementations by utilizing Futamura projections
 //! * [CMU 15-721 (Spring 2018) Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2018/schedule.html)
-//!     * a wonderful overview of the state of the art in various database
+//!     * a wonderful overview of the state of the assets in various database
 //!       topics. start here if you want to contribute deeply and don't know
 //!       where to begin!
 //! * [Everything You Always Wanted to Know About Synchronization but Were Afraid to Ask](http://sigops.org/s/conferences/sosp/2013/papers/p33-david.pdf)

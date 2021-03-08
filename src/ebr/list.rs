@@ -19,7 +19,7 @@ pub struct Entry {
     next: Atomic<Entry>,
 }
 
-/// Implementing this trait asserts that the type `T` can be used as an element in the intrusive
+/// Implementing this trait assets that the type `T` can be used as an element in the intrusive
 /// linked list defined in this module. `T` has to contain (or otherwise be linked to) an instance
 /// of `Entry`.
 ///
